@@ -1,0 +1,10 @@
+.models_img{
+    background-image: url("../../assets/Desktop-ModelS.jpeg");
+  /* Full height */
+  height: 39rem;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

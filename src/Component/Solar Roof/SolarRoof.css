@@ -1,0 +1,11 @@
+
+.solarRoof_img{
+    background-image: url("../../assets/Desktop-SolarRoof.jpeg");
+    /* Full height */
+    height: 39rem;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

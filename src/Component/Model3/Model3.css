@@ -1,0 +1,15 @@
+
+.model3_img{
+ 
+   
+        background-image: url("../../assets/Desktop-Model3.jpeg");
+          /* Full height */
+          height: 39rem;
+        
+          /* Center and scale the image nicely */
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          
+      
+}

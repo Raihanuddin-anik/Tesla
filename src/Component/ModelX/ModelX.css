@@ -1,0 +1,21 @@
+
+.bg_img{
+   
+background-image: url("../../assets/Desktop-ModelX.jpeg");
+  /* Full height */
+  height: 39rem;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.Image_header{
+ position: relative;
+ top: 20%;
+ left: 45%;
+ 
+
+
+}
