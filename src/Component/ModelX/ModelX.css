@@ -4,18 +4,40 @@
 background-image: url("../../assets/Desktop-ModelX.jpeg");
   /* Full height */
   height: 39rem;
-
+width: 100%;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  overflow: hidden;
   
 }
-.Image_header{
- position: relative;
- top: 20%;
- left: 45%;
- 
 
+.Image_header{
+  position: relative;
+ top: 10rem;
+left: 38rem;
+} 
+ .double_button{
+  position: relative;
+ top: 28rem;
+ left: 26rem;
+}  
+ .dark_button{
+  border-radius: 20px;
+  margin-right: 2rem;
+  width: 15rem;
+  padding: 8px;
+  color: aliceblue;
+  background-color: rgba(20, 19, 19, 0.746);
+  border: none;
 
 }
+.white_button{
+  border-radius: 20px;
+  margin-right: 2rem;
+  width: 15rem;
+  padding: 8px;
+  background-color: rgba(255, 255, 255, 0.829);
+  border: none;
+} 

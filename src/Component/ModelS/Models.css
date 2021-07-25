@@ -8,3 +8,30 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+.Image_header{
+  position: relative;
+ top: 10rem;
+ 
+} 
+ .double_button{
+  position: relative;
+ top: 28rem;
+ 
+
+}  
+ .dark_button{
+  border-radius: 20px;
+  margin-right: 2rem;
+  padding: 8px;
+  color: aliceblue;
+  background-color: rgba(20, 19, 19, 0.746);
+  border: none;
+
+}
+.white_button{
+  border-radius: 20px;
+  margin-right: 2rem;
+  padding: 8px;
+  background-color: rgba(255, 255, 255, 0.829);
+  border: none;
+} 

@@ -11,9 +11,10 @@ function App() {
   return (
     <div >
       <NavTop></NavTop>
-      <Model3></Model3>
+      
       <ModelS></ModelS>
       <ModelX></ModelX>
+      <Model3></Model3>
       <ModelY></ModelY>
       <SolarPanel></SolarPanel>
       <SolarRoof></SolarRoof>
